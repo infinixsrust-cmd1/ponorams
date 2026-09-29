@@ -1,7 +1,5 @@
 ﻿# ponorams
 
-Minecraft panoramas (Phaze).
-
 - 1-13-panorama.zip
 - 1-15-panorama.zip
 - 1-16-panorama.zip
